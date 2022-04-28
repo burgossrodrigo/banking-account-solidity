@@ -1,0 +1,24 @@
+{
+  "name": "bank-contract",
+  "version": "1.0.0",
+  "description": "bank account contract example",
+  "main": "truffle.config",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burgossrodrigo/banking-account-solidity.git"
+  },
+  "keywords": [
+    "solidity",
+    "banking",
+    "contract"
+  ],
+  "author": "@burgossrodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burgossrodrigo/banking-account-solidity/issues"
+  },
+  "homepage": "https://github.com/burgossrodrigo/banking-account-solidity#readme"
+}
